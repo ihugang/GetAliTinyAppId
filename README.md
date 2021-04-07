@@ -6,3 +6,5 @@
 必须通过类似alipays://platformapi/startapp?appId=2018081461095002&page=pages/index/index&query=goods_id%3d101"这样的中转url来跳转。
 
 如何获得一个支付宝小程序的appId呢？
+
+## 如果您有小工具需要开发，可以联系 390652@qq.com
